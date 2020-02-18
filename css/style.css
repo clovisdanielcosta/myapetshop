@@ -11,6 +11,11 @@ ul {
     font-size: 20px;
 }
 
+.meu-titulo {
+    color: green;
+    font-size: 25px;
+}
+
 .navbar {
     background-color: rgb(245, 247, 241);
 }

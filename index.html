@@ -6,43 +6,47 @@
         <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css">
         <link rel="stylesheet" href="css/style.css">
         <title>Minha Página com Boostrap</title>
+        
     </head>
-    <body>
-         <nav class="navbar navbar-expand-lg navbar-light">
-            <a class="navbar-brand" href="#" >
-               <div></div>
-               <div></div>
+    <body>   
+        <header>
+            <nav class="navbar navbar-expand-md navbar-light fixed-top bg-light">
                 <img src="img/logo.jpeg" class="rounded-circle" width="50" height="50">
-                <b class="meu-titulo">MyPet</b>
-            </a>
-            <div class="collapse navbar-collapse">
-                <ul class="navbar-nav">
-                    <li class="nav-item">
-                        <a class="nav-link" href="#quemsomos">Quem Somos</a>
-                    </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#pets">Pets</a>
-                </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#servicos">Serviços</a>
-                    </li>
-</ul>
-            </div>
-            <form class="form-inline">
-                <input class="form-control mr-sm-2" type="search" placeholder="Pesquisar" aria-label="Pesquisar">
-                <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Pesquisar</button>
-            </form>
-         </nav>
+                <a class="navbar-brand" href="#" ><b class="meu-titulo">MyPet</b></a>
+            
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
 
-         <section id="quemsomos">
+            <div class="collapse navbar-collapse" id="navbarCollapse">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="#quemsomos">Quem Somos<span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#pets">Pets</a>
+                    </li>
+                    <li>
+                        <a class="nav-link" href="#servicos" tabindex="-1" >Serviços</a>
+                    </li>
+                </ul>
+                <form class="form-inline mt-2 mt-md-0">
+                    <input class="form-control mr-sm-2" type="text" placeholder="Pesquisar" aria-label="Pesquisar">
+                    <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Pesquisar</button>
+                </form>
+            </div>
+        </nav>
+    </header>
+        
+        <section id="quemsomos">
             <div class="container-fluid quem-somos text-center margin">
                 <h1 class="margin">Quem Somos</h1>
                 <img src="img/caoegato.jpg" class="rounded-circle" width="300" height="300">
                 <h3>Cuidamos com carinho do seu Pet.</h3>
             </div>
-         </section>
-
-         <selection id="pets">
+        </section>
+        
+        <selection id="pets">
             <div class="container-fluid text-center margin pets">
                 <h1 class="margin">Pets</h1>
                 <div class="container">

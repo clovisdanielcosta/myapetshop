@@ -1,0 +1,36 @@
+
+body {
+    font: 20px, Arial, sans-serif;
+}
+
+h2 {
+    color: green;
+}
+
+ul {
+    font-size: 20px;
+}
+
+.navbar {
+    background-color: rgb(245, 247, 241);
+}
+
+.quem-somos {
+    background-color: rgb(80, 133, 21);
+    color: white;
+}
+
+.margin {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.pets {
+    background-color: yellowgreen;
+    color: rgb(34, 73, 26);
+}
+
+.bg-footer {
+    font-size: 15px;
+    background-color: rgb(2, 32, 2);
+    color: greenyellow;
+}

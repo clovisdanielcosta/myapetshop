@@ -26,9 +26,14 @@ ul {
 }
 
 .quem-somos {
-    margin-top: 30px;
+    margin-top: 40px;
     background-color: rgb(80, 133, 21);
     color: white;
+}
+
+.section-mg {
+    margin-top: 30px;
+    padding-bottom: 30px;
 }
 
 .margin {
@@ -38,7 +43,6 @@ ul {
 .pets {
     background-color: black;
     color: lime;
-    padding-bottom: 60px;
 }
 
 .bg-footer {

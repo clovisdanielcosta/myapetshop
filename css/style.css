@@ -13,6 +13,8 @@ ul {
 
 .tit-pet {
     color: white;
+    padding-top: 30px;
+   padding-bottom: 15px;
 }
 .meu-titulo {
     color: green;
@@ -36,6 +38,7 @@ ul {
 .pets {
     background-color: black;
     color: lime;
+    padding-bottom: 60px;
 }
 
 .bg-footer {

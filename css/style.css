@@ -11,6 +11,9 @@ ul {
     font-size: 20px;
 }
 
+.tit-pet {
+    color: white;
+}
 .meu-titulo {
     color: green;
     font-size: 25px;
@@ -31,8 +34,8 @@ ul {
     padding-bottom: 30px;
 }
 .pets {
-    background-color: yellowgreen;
-    color: rgb(34, 73, 26);
+    background-color: black;
+    color: lime;
 }
 
 .bg-footer {

@@ -1,4 +1,9 @@
-## Meu App Petshop
+<h1 align="center">
+  
+## :small_red_triangle_down:  Marketplace para Coleta de Resíduos Recicláveis
+
+</h1>
+ 
 
 You can use the [editor on GitHub](https://github.com/clovisdanielcosta/myapetshop/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

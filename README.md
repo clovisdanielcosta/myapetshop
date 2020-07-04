@@ -8,4 +8,6 @@ Este projeto foi criado para efeito de estudo para testar o conceito de containe
 
 ### Visualizar Site
 
-Você poderá visualizar o Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/clovisdanielcosta/myapetshop/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Você poderá visualizar o site no link abaixo: 
+
+[Meu App PetShop](https://clovisdanielcosta.github.io/myapetshop/).

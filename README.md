@@ -1,5 +1,5 @@
 <h1 align="center">  
-:small_red_triangle_down:  Marketplace para Coleta de Resíduos Recicláveis
+:small_red_triangle_down:  Meu App PetShop
 </h1>
  
 
@@ -13,4 +13,4 @@ Você poderá visualizar o site no link abaixo:
 
 [Meu App PetShop](https://clovisdanielcosta.github.io/myapetshop/).
 
-You can use the [editor on GitHub](https://github.com/clovisdanielcosta/myapetshop/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[Editar README](https://github.com/clovisdanielcosta/myapetshop/edit/master/README.md)
